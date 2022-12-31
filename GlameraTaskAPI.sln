@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlameraTaskAPI", "GlameraTaskAPI\GlameraTaskAPI.csproj", "{DDA46ED6-8E92-4D4F-BC90-BF904BE76EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlameraTaskAPI.Domain", "GlameraTaskAPI.Domain\GlameraTaskAPI.Domain.csproj", "{BF9327B2-8242-4CFD-897D-FA917CC0FF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlameraTaskAPI.Infrastucture", "GlameraTaskAPI.Infrastucture\GlameraTaskAPI.Infrastucture.csproj", "{5E8F5623-BFF5-4DAA-BE64-E733E1C688A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlameraTaskAPI.Presistence", "GlameraTaskAPI.Presistence\GlameraTaskAPI.Presistence.csproj", "{B73B160B-1D0B-4432-AF0F-3B9A92120384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlameraTaskAPI.Service", "GlameraTaskAPI.Service\GlameraTaskAPI.Service.csproj", "{2D20E82D-5BB8-426B-B732-3A5F179F4C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA46ED6-8E92-4D4F-BC90-BF904BE76EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA46ED6-8E92-4D4F-BC90-BF904BE76EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA46ED6-8E92-4D4F-BC90-BF904BE76EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA46ED6-8E92-4D4F-BC90-BF904BE76EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9327B2-8242-4CFD-897D-FA917CC0FF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9327B2-8242-4CFD-897D-FA917CC0FF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9327B2-8242-4CFD-897D-FA917CC0FF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9327B2-8242-4CFD-897D-FA917CC0FF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8F5623-BFF5-4DAA-BE64-E733E1C688A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8F5623-BFF5-4DAA-BE64-E733E1C688A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8F5623-BFF5-4DAA-BE64-E733E1C688A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8F5623-BFF5-4DAA-BE64-E733E1C688A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73B160B-1D0B-4432-AF0F-3B9A92120384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73B160B-1D0B-4432-AF0F-3B9A92120384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73B160B-1D0B-4432-AF0F-3B9A92120384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73B160B-1D0B-4432-AF0F-3B9A92120384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D20E82D-5BB8-426B-B732-3A5F179F4C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D20E82D-5BB8-426B-B732-3A5F179F4C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D20E82D-5BB8-426B-B732-3A5F179F4C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D20E82D-5BB8-426B-B732-3A5F179F4C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F499101F-AF9F-4761-B9DC-81D883BE8213}
+	EndGlobalSection
+EndGlobal
